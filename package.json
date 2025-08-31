@@ -1,6 +1,7 @@
 {
 	"author": "Stanley Daniel",
 	"name": "fcc-learn-npm-package-json",
+	"description": "my first nodejs code",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
