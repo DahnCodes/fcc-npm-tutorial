@@ -2,6 +2,7 @@
 	"author": "Stanley Daniel",
 	"name": "fcc-learn-npm-package-json",
 	"description": "my first nodejs code",
+	"keywords": ["freecodecamp", "node", "npm"],
 	"dependencies": {
 		"express": "^4.21.2"
 	},
